@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3986,
+  "edgeCount": 3994,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -5692,6 +5692,24 @@
       "reason": "Savanna predator-prey (lions/zebras) is foundation for predator-prey strategies"
     },
     {
+      "topicId": "mt_bzTJH3XBrx",
+      "prerequisiteId": "mt_fL1Xz8ostr",
+      "strength": "soft",
+      "reason": "Noticing feeling and sensory phrases (\"the icy wind howled\") helps spot a personification"
+    },
+    {
+      "topicId": "mt_bzTJH3XBrx",
+      "prerequisiteId": "mt_sSQlLOnAow",
+      "strength": "soft",
+      "reason": "Recognising characters in stories supports noticing that an animal character behaves like a person"
+    },
+    {
+      "topicId": "mt_bzTJH3XBrx",
+      "prerequisiteId": "mt_SUOhjmRqv9",
+      "strength": "soft",
+      "reason": "Distinguishing literal from figurative language supports explaining a personification"
+    },
+    {
       "topicId": "mt_c29FaCTNsx",
       "prerequisiteId": "mt_xppl18avyY",
       "strength": "hard",
@@ -6740,6 +6758,24 @@
       "prerequisiteId": "mt_NTAc_EMeHZ",
       "strength": "hard",
       "reason": "'Trying figurative language in writing' builds on 'Borrowing from books you've read'"
+    },
+    {
+      "topicId": "mt_Dc-YYfulcj",
+      "prerequisiteId": "mt_cU3LcEVkBQ",
+      "strength": "soft",
+      "reason": "Knowing that adjectives describe nouns supports sorting proper from common adjectives"
+    },
+    {
+      "topicId": "mt_Dc-YYfulcj",
+      "prerequisiteId": "mt_qzwQAOfurw",
+      "strength": "soft",
+      "reason": "Knowing the term \"adjective\" helps the child explain the rule"
+    },
+    {
+      "topicId": "mt_Dc-YYfulcj",
+      "prerequisiteId": "mt_uM6q_KBWKy",
+      "strength": "soft",
+      "reason": "Capitalising proper names helps explain why a derived adjective keeps the capital"
     },
     {
       "topicId": "mt_deexfCHU9m",
@@ -8720,6 +8756,18 @@
       "prerequisiteId": "mt_tF6XuKIq8_",
       "strength": "hard",
       "reason": "'Working together for a civic goal' builds on 'Why people join in'"
+    },
+    {
+      "topicId": "mt_G8PH3onbBS",
+      "prerequisiteId": "mt_frDIaXzWbx",
+      "strength": "soft",
+      "reason": "Recognising the letters on the keys and on the screen supports finding keys and spotting errors"
+    },
+    {
+      "topicId": "mt_G8PH3onbBS",
+      "prerequisiteId": "mt_nYU6x2E2T8",
+      "strength": "soft",
+      "reason": "Prior experience typing simple words on a computer makes the keyboard familiar"
     },
     {
       "topicId": "mt_g9RcQOhU5d",
